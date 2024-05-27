@@ -1,0 +1,812 @@
+[
+	{
+		"count":1,
+		"name": "Chapter 1-2",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 2-1",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 2-2",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 2-3",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 3-1",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 3-2",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 3-3",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 4-1",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 4-2",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 5-1",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 5-2",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 5-3",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 6-1",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 6-2",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chapter 6-3",
+		"category": ["chapter_unlock"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Old Building Key",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Furnace Key",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Port Key",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Guard's Key",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Beast Slate",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shaman Slate",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Raptor Slate",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Warrior Slate",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sky Emblem",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Earth Emblem",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sea Emblem",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crane Keycard",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tanker Keycard A",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tanker Keycard B",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bridge Keycard",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hangar Keycard A",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hangar Keycard B",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Beretta M92F",
+		"category": ["lightweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ithaca 37",
+		"category": ["heavyweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Benelli M3",
+		"category": ["heavyweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Jailbreaker",
+		"category": ["heavyweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "VZ61",
+		"category": ["lightweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "AK-74",
+		"category": ["lightweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "H&K MP5",
+		"category": ["lightweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "SIG 556",
+		"category": ["lightweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "S75",
+		"category": ["rifle","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "SVD Dragunov",
+		"category": ["rifle","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "H&K PSG-1",
+		"category": ["rifle","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "S&W M29",
+		"category": ["heavyweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "L Hawk",
+		"category": ["heavyweapon","weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "M40 GL",
+		"category": ["heavyweapon","explosive","weapon"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Rocket Launcher - Single Use",
+		"category": ["explosive"],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Restart Level Trap",
+		"category": ["other_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 1 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 2 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 3 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 4 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 5 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 6 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 7 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 8 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count": "1",
+		"name": "Discard Slot 9 Trap",
+		"category": ["discard_trap"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Flame Rounds",
+		"category": ["ammo_unlock"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Explosive Rounds",
+		"category": ["ammo_unlock","explosive"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Acid Rounds",
+		"category": ["ammo_unlock"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Flash Rounds",
+		"category": ["ammo_unlock"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Nitrogen Rounds",
+		"category": ["ammo_unlock"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Electric Rounds",
+		"category": ["ammo_unlock"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M93R",
+		"category": ["lightweapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "S&W M500",
+		"category": ["heavyweapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hydra",
+		"category": ["heavyweapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hand Grenade",
+		"category": ["explosive","grenade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Incendiary Grenade",
+		"category": ["grenade"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flash Grenade",
+		"category": ["grenade"],
+		"useful": true
+	},
+	{
+		"count": "5",
+		"name": "First Aid Spray",
+		"category": ["useful_filler"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M92F Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M92F Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M92F Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M92F Critical Hit Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K P8 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K P8 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K P8 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K P8 Piercing Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "SIG P226 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "SIG P226 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "SIG P226 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M93R Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M93R Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M93R Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Ithaca 37 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Ithaca 37 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Ithaca 37 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Ithaca 37 Critical Hit Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M3 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M3 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "M3 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Jailbreaker Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Jailbreaker Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Jailbreaker Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Jailbreaker Attack Range Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Hydra Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Hydra Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Hydra Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Hydra Attack Range Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "VZ61 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "VZ61 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "VZ61 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "VZ61 Critical Hit Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "AK74 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "AK74 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "AK74 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K MP5 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K MP5 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K MP5 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K MP5 Piercing Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "SIG 556 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "SIG 556 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "SIG 556 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S75 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S75 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S75 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Dragunov SVD Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Dragunov SVD Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Dragunov SVD Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K PSG-1 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K PSG-1 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K PSG-1 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "H&K PSG-1 Scope Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S&W M29 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S&W M29 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S&W M29 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S&W M29 Piercing Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "L Hawk Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "L Hawk Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "L Hawk Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "L Hawk Piercing Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S&W M500 Firepower Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S&W M500 Reload Speed Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S&W M500 Capacity Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "S&W M500 Piercing Upgrades",
+		"category": ["weapon_upgrade_unlocks"],
+		"filler": true
+	}
+]

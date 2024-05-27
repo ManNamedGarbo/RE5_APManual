@@ -1,0 +1,11 @@
+{
+    "emblem": {
+        "yaml_option": ["Emblemsanity_Enabled"]
+    },
+    "treasure": {
+        "yaml_option": ["Treasuresanity_Enabled"]
+    },
+    "shop_purchase": {
+        "yaml_option": ["Shopsanity_Enabled"]
+    }
+}
