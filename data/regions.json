@@ -1,71 +1,155 @@
 {
-	"Chapter 1-1": 	{
+  "Chapter 1-1": {
+    
 		"starting": true,
-		"connects_to": ["Shop","Chapter 1-2","Chapter 2-1","Chapter 2-2","Chapter 2-3","Chapter 3-1","Chapter 3-2","Chapter 3-3","Chapter 4-1","Chapter 4-2","Chapter 5-1","Chapter 5-2","Chapter 5-3","Chapter 6-1","Chapter 6-2","Chapter 6-3"],
+    
+		"connects_to": [
+      "Shop",
+      "Chapter 1-2",
+      "Chapter 2-1",
+      "Chapter 2-2",
+      "Chapter 2-3",
+      "Chapter 3-1",
+      "Chapter 3-2",
+      "Chapter 3-3",
+      "Chapter 4-1",
+      "Chapter 4-2",
+      "Chapter 5-1",
+      "Chapter 5-2",
+      "Chapter 5-3",
+      "Chapter 6-1",
+      "Chapter 6-2",
+      "Chapter 6-3"
+    ],
+    
 		"requires": []
-	},
-	"Chapter 1-2": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 1-2": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 1-2|"
-	},
-	"Chapter 2-1": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 2-1": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 2-1|"
-	},
-	"Chapter 2-2": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 2-2": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 2-2|"
-	},
-	"Chapter 2-3": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 2-3": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 2-3|"
-	},
-	"Chapter 3-1": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 3-1": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 3-1|"
-	},
-	"Chapter 3-2": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 3-2": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 3-2|"
-	},
-	"Chapter 3-3": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 3-3": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 3-3|"
-	},
-	"Chapter 4-1": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 4-1": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 4-1|"
-	},
-	"Chapter 4-2": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 4-2": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 4-2|"
-	},
-	"Chapter 5-1": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 5-1": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 5-1|"
-	},
-	"Chapter 5-2": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 5-2": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 5-2|"
-	},
-	"Chapter 5-3": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 5-3": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 5-3|"
-	},
-	"Chapter 6-1": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 6-1": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 6-1|"
-	},
-	"Chapter 6-2": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 6-2": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 6-2|"
-	},
-	"Chapter 6-3": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Chapter 6-3": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": "|Chapter 6-3|"
-	},
-	"Shop": 	{
-		"connects_to": ["Chapter 1-1"],
+  },
+  "Shop": {
+    
+		"connects_to": [
+      "Chapter 1-1"
+    ],
+    
 		"requires": []
-}
+  }
 }

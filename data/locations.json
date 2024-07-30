@@ -1,1240 +1,2510 @@
 [
-	{
+  {
+    
 		"name": "1-2 BSAA_Emblem_Balcony",
+    
 		"region": "Chapter 1-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "1-2 BSAA_Emblem_Water_Tower",
+    
 		"region": "Chapter 1-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "1-2 BSAA_Emblem_Past_Uroboros_Near_Ammo_Case",
+    
 		"region": "Chapter 1-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-1 BSAA_Emblem_Garage_Wall",
+    
 		"region": "Chapter 2-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-1 BSAA_Emblem_Under_Bridge",
+    
 		"region": "Chapter 2-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-1 BSAA_Emblem_Port_Before_Boat",
+    
 		"region": "Chapter 2-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-1 BSAA_Emblem_Port_After_Boat",
+    
 		"region": "Chapter 2-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-1 BSAA_Emblem_Roof_Assistjump",
+    
 		"region": "Chapter 2-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-2 BSAA_Emblem_Power_Pole_Near_Trains",
+    
 		"region": "Chapter 2-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-2 BSAA_Emblem_Waterfall",
+    
 		"region": "Chapter 2-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-2 BSAA_Emblem_Warehouse_Roof",
+    
 		"region": "Chapter 2-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "3-1 BSAA_Emblem_Power_Pole_Near_Spawn",
+    
 		"region": "Chapter 3-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "3-1 BSAA_Emblem_Northwest",
+    
 		"region": "Chapter 3-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "3-1 BSAA_Emblem_Chicken_Coop",
+    
 		"region": "Chapter 3-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "3-1 BSAA_Emblem_Waistdeep_Water",
+    
 		"region": "Chapter 3-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "( |@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| ) AND |Beast Slate| AND |Warrior Slate| AND |Raptor Slate| AND |Shaman Slate|"
-	},
-	{
+  },
+  {
+    
 		"name": "3-2 BSAA_Emblem_Tricell_Tents",
+    
 		"region": "Chapter 3-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "3-2 BSAA_Emblem_Oil_Refinery_Escape",
+    
 		"region": "Chapter 3-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "3-3 BSAA_Emblem_Under_First_Gate",
+    
 		"region": "Chapter 3-3",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "4-1 BSAA_Emblem_Waterfall",
+    
 		"region": "Chapter 4-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "4-1 BSAA_Emblem_Above_Fireball_Door",
+    
 		"region": "Chapter 4-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "4-1 BSAA_Emblem_Top_of_Staircase_Room",
+    
 		"region": "Chapter 4-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "4-2 BSAA_Emblem_Final_Laser_Room",
+    
 		"region": "Chapter 4-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-1 BSAA_Emblem_Garden",
+    
 		"region": "Chapter 5-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-2 BSAA_Emblem_Dumpster",
+    
 		"region": "Chapter 5-2",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-3 BSAA_Emblem_Behind_Fan",
+    
 		"region": "Chapter 5-3",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-3 BSAA_Emblem_Spinning_Platform",
+    
 		"region": "Chapter 5-3",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-3 BSAA_Emblem_Below_Construction_Elevator",
+    
 		"region": "Chapter 5-3",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "6-1 BSAA_Emblem_Longshot_Across_Boat",
+    
 		"region": "Chapter 6-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "6-1 BSAA_Emblem_Explosives_Container",
+    
 		"region": "Chapter 6-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@explosive:1| OR |Rocket Launcher - Single Use|"
-	},
-	{
+  },
+  {
+    
 		"name": "6-1 BSAA_Emblem_Shelf",
+    
 		"region": "Chapter 6-1",
-		"category": ["emblem"],
+    
+		"category": [
+      "emblem"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Old Building Key",
+    
 		"region": "Chapter 1-2",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Furnace Key",
+    
 		"region": "Chapter 1-2",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Port Key",
+    
 		"region": "Chapter 2-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Guard's Key",
+    
 		"region": "Chapter 2-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Beast Slate",
+    
 		"region": "Chapter 3-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Shaman Slate",
+    
 		"region": "Chapter 3-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Raptor Slate",
+    
 		"region": "Chapter 3-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Warrior Slate",
+    
 		"region": "Chapter 3-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Sky Emblem",
+    
 		"region": "Chapter 4-2",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Earth Emblem",
+    
 		"region": "Chapter 4-2",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Sea Emblem",
+    
 		"region": "Chapter 4-2",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Crane Keycard",
+    
 		"region": "Chapter 6-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Tanker Keycard A",
+    
 		"region": "Chapter 6-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|Crane Keycard|"
-	},
-	{
+  },
+  {
+    
 		"name": "Tanker Keycard B",
+    
 		"region": "Chapter 6-1",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|Crane Keycard|"
-	},
-	{
+  },
+  {
+    
 		"name": "Bridge Keycard",
+    
 		"region": "Chapter 6-2",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Hangar Keycard A",
+    
 		"region": "Chapter 6-3",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|@lightweapon:1| AND |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Hangar Keycard B",
+    
 		"region": "Chapter 6-3",
-		"category": ["key_location"],
+    
+		"category": [
+      "key_location"
+    ],
+    
 		"requires": "|@lightweapon:1| AND |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 1-1",
+    
 		"region": "Chapter 1-1",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 1-2",
+    
 		"region": "Chapter 1-2",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|Furnace Key| OR |Rocket Launcher - Single Use|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 2-1",
+    
 		"region": "Chapter 2-1",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|Port Key| AND |Guard's Key| AND |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 2-2",
+    
 		"region": "Chapter 2-2",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 2-3",
+    
 		"region": "Chapter 2-3",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 3-1",
+    
 		"region": "Chapter 3-1",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 3-2",
+    
 		"region": "Chapter 3-2",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 3-3",
+    
 		"region": "Chapter 3-3",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 4-1",
+    
 		"region": "Chapter 4-1",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 4-2",
+    
 		"region": "Chapter 4-2",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|Sky Emblem| AND |Earth Emblem| AND |Sea Emblem| AND |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 5-1",
+    
 		"region": "Chapter 5-1",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 5-2",
+    
 		"region": "Chapter 5-2",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 5-3",
+    
 		"region": "Chapter 5-3",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 6-1",
+    
 		"region": "Chapter 6-1",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|Crane Keycard| AND |Tanker Keycard A| AND |Tanker Keycard B| AND |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Completed Chapter 6-2",
+    
 		"region": "Chapter 6-2",
-		"category": ["level_completion"],
+    
+		"category": [
+      "level_completion"
+    ],
+    
 		"requires": "|Bridge Keycard| AND |@lightweapon:1| AND |@heavyweapon:1|"
-	},
-	{
-		"name": "Completed Chapter 6-3",
+  },
+  {
+    
+		"name": "Complete All Chapters Goal",
+    
 		"region": "Chapter 6-3",
+    
 		"victory": true,
-		"category": ["level_completion"],
-		"requires": "|Hangar Keycard A| AND |Hangar Keycard B| AND |Chapter 1-2| AND |Chapter 2-1| AND |Chapter 2-2| AND |Chapter 2-3| AND |Chapter 3-1| AND |Chapter 3-2| AND |Chapter 3-3| AND |Chapter 4-1| AND |Chapter 4-2| AND |Chapter 5-1| AND |Chapter 5-2| AND |Chapter 5-3| AND |Chapter 6-1| AND |Chapter 6-2| AND |Chapter 6-3| AND |@heavyweapon:1| AND |@lightweapon:1|"
-	},
-	{
+    
+		"category": [
+      "Goals"
+    ],
+    
+		"requires": "|Chapter 1-2| AND |Chapter 2-1| AND |Chapter 2-2| AND |Chapter 2-3| AND |Chapter 3-1| AND |Chapter 3-2| AND |Chapter 3-3| AND |Chapter 4-1| AND |Chapter 4-2| AND |Chapter 5-1| AND |Chapter 5-2| AND |Chapter 5-3| AND |Chapter 6-1| AND |Chapter 6-2| AND |Chapter 6-3| AND |@heavyweapon:1| AND |@lightweapon:2| AND (|Furnace Key| OR |Rocket Launcher - Single Use|) AND |Hangar Keycard A| AND |Hangar Keycard B| AND (|@lightweapon:1| OR |@heavyweapon:1|) AND |Port Key| AND |Guard's Key| AND |Bridge Keycard| AND |Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND |Sky Emblem| AND |Earth Emblem| AND |Sea Emblem| AND |Crane Keycard|"
+  },
+  {
+    
 		"name": "1-1 Pickup_Beretta_M92F",
+    
 		"region": "Chapter 1-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": [],
-		"place_item_category": ["weapon"]
-	},
-	{
+    
+		"place_item_category": [
+      "weapon"
+    ]
+  },
+  {
+    
 		"name": "1-2 Pickup_Ithaca_37",
+    
 		"region": "Chapter 1-2",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": "|Old Building Key|"
-	},
-	{
+  },
+  {
+    
 		"name": "3-3 Pickup_Benelli_M3",
+    
 		"region": "Chapter 3-3",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "6-1 Pickup_Jailbreaker",
+    
 		"region": "Chapter 6-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "1-1 Pickup_VZ61",
+    
 		"region": "Chapter 1-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "5-1 Pickup_AK74",
+    
 		"region": "Chapter 5-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "2-1 Pickup_H&K_MP5",
+    
 		"region": "Chapter 2-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "5-2 Pickup_SIG_556",
+    
 		"region": "Chapter 5-2",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "2-1 Pickup_S75",
+    
 		"region": "Chapter 2-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": "|Port Key|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-2 Pickup_SVD",
+    
 		"region": "Chapter 2-2",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "5-3 Pickup_H&K_PSG-1",
+    
 		"region": "Chapter 5-3",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "3-1 Pickup_S&W_M29",
+    
 		"region": "Chapter 3-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": "|Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-3 Pickup_L_Hawk",
+    
 		"region": "Chapter 5-3",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "3-1 Pickup_Rocket_Launcher",
+    
 		"region": "Chapter 3-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "4-1 Pickup_M40_GL",
+    
 		"region": "Chapter 4-1",
-		"category": ["weapon_pickup"],
+    
+		"category": [
+      "weapon_pickup"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase First Aid Spray after 1-2",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|Chapter 1-2| AND |Furnace Key| AND |@treasure:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase Stun Rod after 2-3",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|Chapter 2-3| AND |@treasure:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase H&K P8 after 3-1",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|Chapter 3-1| AND |Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND |@treasure:5|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase SIG P226 after 5-1",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|Chapter 5-1| AND |@treasure:5|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase Proximity Bomb atfer 2-2",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|Chapter 2-2| AND |@treasure:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase Melee Vest after 1-2",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|Chapter 1-2| AND |@treasure:10|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase Bulletproof Vest after 4-2",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|Chapter 4-2| AND |@treasure:10|"
-	},
-	{
+  },
+  {
+    
 		"name": "1-1 Defeat Executioner",
+    
 		"region": "Chapter 1-1",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "1-2 Defeat Furnace Room Uroboros",
+    
 		"region": "Chapter 1-2",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": "|Furnace Key| OR |Rocket Launcher - Single Use|"
-	},
-	{
+  },
+  {
+    
 		"name": "1-2 Defeat Blonde Girl",
+    
 		"region": "Chapter 1-2",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-2 Defeat Mining Area Popokarimu",
+    
 		"region": "Chapter 2-2",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "2-3 Defeat Ndesu Ogre",
+    
 		"region": "Chapter 2-3",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "3-3 Defeat Irving",
+    
 		"region": "Chapter 3-3",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "4-1 Defeat Labyrinth Popokarimu",
+    
 		"region": "Chapter 4-1",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-1 Defeat Ultimate-8",
+    
 		"region": "Chapter 5-1",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": "|Hand Grenade| AND |@lightweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-2 Defeat Flamethrower Room Uroboros",
+    
 		"region": "Chapter 5-2",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |Rocket Launcher - Single Use|"
-	},
-	{
+  },
+  {
+    
 		"name": "5-3 Chase off Wesker",
+    
 		"region": "Chapter 5-3",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "5-3 Save Jill",
+    
 		"region": "Chapter 5-3",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "6-2 Defeat Ship Bridge Uroboros",
+    
 		"region": "Chapter 6-2",
-		"category": ["boss_kill"],
+    
+		"category": [
+      "boss_kill"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 1-1 Gold Ring - Executioner Majini",
+    
 		"region": "Chapter 1-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 1-2 Ivory Relief - Blonde Cephalo Girl",
+    
 		"region": "Chapter 1-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 1-2 Antique Clock - Balcony Across from Emblem",
+    
 		"region": "Chapter 1-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-1 Topaz Pear - Before Port in Sea near Boat ",
+    
 		"region": "Chapter 2-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-1 Sapphire Pear - Sewer Line Before Ambush",
+    
 		"region": "Chapter 2-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| AND |Port Key|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-1 Ruby Square -  Chest after Chainsaw Majini",
+    
 		"region": "Chapter 2-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@heavyweapon:1| AND |Guard's Key|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-1 Emerald Square - Top of Port Key House",
+    
 		"region": "Chapter 2-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-1 Ruby Marquise - Market near Port Key",
+    
 		"region": "Chapter 2-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@explosive:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Diamond Brilliant - Small Ladder near Warehouse Chest",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Jewel Beetle - End of Train Station",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Jewel Beetle - Plank Climb on Train",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Ruby Pear - Roof above Water",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Ruby Pear - Roof above Waterfall Bridge",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Diamond Pear - First Tall Ladder",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Ruby Square - Leftside Cave Roof after Dark Tunnel",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Ruby Square - Mekanism after Dark Tunnel",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Diamond Square - Broken Ladder Assist Jump",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 2-2 Diamond Oval -  Dark Tunnel Hidden Chest before Crank",
+    
 		"region": "Chapter 2-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Chalice Silver - Chicken Coop Chest",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Chalice Silver - Northwest Fish Island Tower Chest",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Idol Silver -  Assist Jump near Shaman Slate",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Idol Silver - Southwest Village Open Platform Chest",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Ceremonial Mask -  Tram at End of Chapter",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Beetle Brown - Tree near Beast Slate",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Beetle Brown - Southwest Village on Tree",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Beetle Brown - Northeast Fence in Open Water ",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Beetle Brown - Alligator Swamp Tree",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Beetle Brown - Chicken Coop near Boat",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Beetle Brown - Rocket Launcher Boat",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Beetle Brown - Northwest Fish Island in Water",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Ruby Pear -  Skull at Spawn",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Ruby Pear - Fence near Ladder in Alligator Swamp",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Ruby Pear -  Eastern Island Skull on Hut",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Emerald Pear- Eastern Island Skull Altar near Boat",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-1 Blue Enigma - Giant Tribal Majini in Village",
+    
 		"region": "Chapter 3-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Gold Ring - Chainsaw Majini near Josh",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Gold Ring - Bigman Majini",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Jewel Bangle - First Bigman near Josh",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Jewel Bangle - Second Bigman near Josh",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Venom Fang - Chainsaw Majini Duo",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Jewel Beetle -  Oil Barrel near Tricell Tents",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Ruby Pear - First Skull Lantern in Cave",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Ruby Square - Cliff near Oil Refinery Door",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-2 Sapphire Square -  Second Skull Lantern in Cave",
+    
 		"region": "Chapter 3-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-3 Sapphire Pear - Second Boat Stop near Shed",
+    
 		"region": "Chapter 3-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 3-3 Emerald Marquise -  Gatling Gun Office Drawer",
+    
 		"region": "Chapter 3-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Idol Gold - Chest Jump near Second Statue",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Topaz Pear - Middle of Stairs Lantern near Falling Bridge",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Topaz Pear - Brazier before Door",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Ruby Pear - Rightside Skull on Ground before Door",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Ruby Pear - Mummy past Falling Bridge",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Ruby Pear - Split Floor Cord Pull Bottom Statue",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Sapphire Pear - Roof Behind Chest past Ladder",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Sapphire Pear - Leftside Skull on Ground before Door",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Sapphire Pear - Sarcophagus past Falling Bridge",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Sapphire Pear - Split Floor Cord Pull Top Statue",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Emerald Pear - Spider Room Lantern",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Topaz Square - Above Wooden Stairs in Roof",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Topaz Square - Archway Above Labyrinth",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Sapphire Square - Assist Jump Chest",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Sapphire Square - First Statue Cord Pull",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Sapphire Square - Spider Room Lantern",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Emerald Square - Across Grenade Launcher Above Statue",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Emerald Square - Second Statue Cord Pull",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Ruby Oval - Red Statue Cord Pull",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Topaz Trilliant - Chest Climb Past Ladder",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Ruby Trilliant - Plus Hallway South Chest",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Sapphire Trilliant - Plus Hallway East Chest",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Emerald Trilliant - Plus Hallway West Chest",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-1 Soul Gem - Labyrinth Popokarimu",
+    
 		"region": "Chapter 4-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR |Rocket Launcher - Single Use|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Idol Gold - Laser Room Idol Door",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Gold Beetle - Laser Room Burning Effigy",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Topaz Pear - Behind Spawn on Door",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Ruby Pear - Gold Idol Room Rightside Skull",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Emerald Pear - Gold Idol Room Leftside Skull",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Topaz Square - First Runway Alcove in Lantern",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Sapphire Square - Second Runway Alcove in Lantern",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Diamond Trilliant - Above Emblem Door",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 4-2 Blue Enigma - Sea Emblem Guards",
+    
 		"region": "Chapter 4-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-1 Jewel Beetle - Garden on Ground",
+    
 		"region": "Chapter 5-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-1 Emerald Pear - Above Garden",
+    
 		"region": "Chapter 5-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-1 Ruby Square - Wall Behind Spawn",
+    
 		"region": "Chapter 5-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-1 Lion Heart - Near Ultimate-8",
+    
 		"region": "Chapter 5-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-2 Dead Brides Necklace - Conveyor Belt Bodies",
+    
 		"region": "Chapter 5-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": []
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-2 Power Stone - Conveyor Belt Reaper",
+    
 		"region": "Chapter 5-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-2 Lion Heart - Licker Horde Corridor",
+    
 		"region": "Chapter 5-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Royal Necklace - Control Room",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Chalice Gold - Locker in Drop Down Building",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Sapphire Oval - Northwest Vase during Wesker Phase",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Emerald Oval - L Hawk Sarcophagus during Wesker Phase",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Topaz Brilliant - Monarch Room Entrance above Bridge",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Ruby Brilliant - Embedded on Rock in Cave",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Sapphire Brilliant - L Hawk Sarcophagus during Wesker Phase",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Emerald Brilliant -  East Balcony Vase during Jill Phase",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Sapphire Marquise - Excellas Safe under Desk",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Power Stone - Reapers",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Lion Heart - Lickers before Wesker",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Heart of Africa - Early Wesker Kill",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 5-3 Jewel Bangle - Bigman Majini on Lift",
+    
 		"region": "Chapter 5-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 6-1 Dead Brides Necklace - Rocket Launcher Majini",
+    
 		"region": "Chapter 6-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 6-1 Jewel Bangle - Bigman Majini",
+    
 		"region": "Chapter 6-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 6-1 Topaz Oval - Crane Majini from Afar",
+    
 		"region": "Chapter 6-1",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 6-2 Chalice Gold - Lower Deck Furthest Locker",
+    
 		"region": "Chapter 6-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 6-2 Chalice Gold - Upper Deck Meeting Room Locker",
+    
 		"region": "Chapter 6-2",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 6-3 Dead Brides Necklace - Engine Room Rocket Launcher Majini",
+    
 		"region": "Chapter 6-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Chapter 6-3 Power Stone - Second Bulkhead Reapers",
+    
 		"region": "Chapter 6-3",
-		"category": ["treasure"],
+    
+		"category": [
+      "treasure"
+    ],
+    
 		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase M93R",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|@treasure:15|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase S&W M500",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|@treasure:15|"
-	},
-	{
+  },
+  {
+    
 		"name": "Purchase Hydra",
+    
 		"region": "Shop",
-		"category": ["shop_purchase"],
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
 		"requires": "|@treasure:15|"
-	}
+  },
+  {
+    
+		"name": "Kill Wesker in 6-3 Goal",
+    
+		"victory": true,
+    
+		"region": "Chapter 6-3",
+    
+		"category": [
+      "Goals",
+      "boss_kill"
+    ],
+    
+		"requires": "|Hangar Keycard A| AND |Hangar Keycard B| AND |Chapter 6-3| AND (|@lightweapon:1| OR |@heavyweapon:1|)"
+  },
+  {
+    
+		"name": "All Bosses Goal",
+    
+		"region": "Chapter 6-3",
+    
+		"victory": true,
+    
+		"category": [
+      "Goals",
+      "boss_kill"
+    ],
+    
+		"requires": "(|Furnace Key| OR |Rocket Launcher - Single Use|) AND |Chapter 1-2| AND |Chapter 2-2| AND |Chapter 2-3| AND |Chapter 3-3| AND |Chapter 4-1| AND |Chapter 5-1| AND |Chapter 5-2| AND |Chapter 5-3| AND |Chapter 6-2| AND |Hangar Keycard A| AND |Hangar Keycard B| AND |Chapter 6-3| AND (|@lightweapon:1| OR |@heavyweapon:1|) AND |Port Key| AND |Guard's Key| AND |Bridge Keycard| AND |Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND |Sky Emblem| AND |Earth Emblem| AND |Sea Emblem| AND |Crane Keycard|"
+  }
 ]
