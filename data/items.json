@@ -1886,5 +1886,30 @@
     ],
     
 		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "H&K P8",
+    
+		"category": [
+      "lightweapon",
+      "weapon"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "H&K P8 Infinite Ammo",
+    
+		"category": [
+      "infinite_ammo"
+    ],
+    
+		"useful": true
   }
 ]
