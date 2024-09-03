@@ -391,7 +391,8 @@
     
 		"category": [
       "lightweapon",
-      "weapon"
+      "weapon",
+      "longshot_precise_weapon"
     ],
     
 		"progression": true
@@ -534,7 +535,8 @@
     
 		"category": [
       "heavyweapon",
-      "weapon"
+      "weapon",
+      "longshot_precise_weapon"
     ],
     
 		"progression": true
@@ -547,7 +549,8 @@
     
 		"category": [
       "heavyweapon",
-      "weapon"
+      "weapon",
+      "longshot_precise_weapon"
     ],
     
 		"progression": true
@@ -778,7 +781,8 @@
 		"name": "M93R",
     
 		"category": [
-      "lightweapon"
+      "lightweapon",
+      "weapon"
     ],
     
 		"progression": true
@@ -790,7 +794,9 @@
 		"name": "S&W M500",
     
 		"category": [
-      "heavyweapon"
+      "heavyweapon",
+      "weapon",
+      "longshot_precise_weapon"
     ],
     
 		"progression": true
@@ -802,7 +808,8 @@
 		"name": "Hydra",
     
 		"category": [
-      "heavyweapon"
+      "heavyweapon",
+      "weapon"
     ],
     
 		"progression": true

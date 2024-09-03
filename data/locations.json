@@ -57,7 +57,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@weapon:1|)"
   },
   {
     
@@ -105,7 +105,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@lightweapon:1|)"
   },
   {
     
@@ -129,7 +129,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@lightweapon:1|)"
   },
   {
     
@@ -141,7 +141,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@lightweapon:1|)"
   },
   {
     
@@ -249,7 +249,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@weapon:1|)"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@lightweapon:1|)"
   },
   {
     
@@ -285,7 +285,7 @@
       "emblem"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |Incendiary Grenade|)"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |Hand Grenade|)"
   },
   {
     
@@ -309,7 +309,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@lightweapon:1|) OR {YamlEnabled(Expert_Logic)} AND |Rocket Launcher - Single Use|)"
   },
   {
     
@@ -333,7 +333,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@longshot_precise_weapon:1|)"
   },
   {
     
