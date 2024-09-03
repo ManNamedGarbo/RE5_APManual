@@ -721,7 +721,7 @@
       "explosive"
     ],
     
-		"useful": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -830,7 +830,7 @@
       "grenade"
     ],
     
-		"useful": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -866,7 +866,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -878,7 +878,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -890,7 +890,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -902,7 +902,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1034,7 +1034,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1046,7 +1046,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1058,7 +1058,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1070,7 +1070,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1214,7 +1214,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1226,7 +1226,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1238,7 +1238,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1250,7 +1250,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1382,7 +1382,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1394,7 +1394,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1406,7 +1406,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1502,7 +1502,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1514,7 +1514,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1526,7 +1526,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1538,7 +1538,7 @@
       "weapon_upgrade_unlocks"
     ],
     
-		"filler": true
+		"progression_skip_balancing": true
   },
   {
     
@@ -1851,5 +1851,33 @@
     ],
     
 		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Minigun",
+    
+		"category": [
+      "heavyweapon",
+      "weapon",
+      "infinite_ammo"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Longbow",
+    
+		"category": [
+      "heavyweapon",
+      "weapon",
+      "infinite_ammo"
+    ],
+    
+		"progression": true
   }
 ]

@@ -10,5 +10,8 @@
     },
     "shop_purchase": {
         "yaml_option": ["Shopsanity_Enabled"]
-    }
+    },
+    "expert_logic": {
+        "yaml_option": ["Expert_Logic"]
+    },	
 }

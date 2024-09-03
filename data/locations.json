@@ -57,7 +57,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -105,7 +105,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -129,7 +129,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -141,7 +141,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -213,7 +213,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@weapon:1|)"
   },
   {
     
@@ -249,7 +249,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@weapon:1|)"
   },
   {
     
@@ -285,7 +285,7 @@
       "emblem"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |Incendiary Grenade|)"
   },
   {
     
@@ -309,7 +309,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -393,7 +393,7 @@
       "key_location"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({({YamlEnabled(Expert_Logic)} AND |M40 GL| AND |Explosive Rounds|)"
   },
   {
     
@@ -585,7 +585,7 @@
       "level_completion"
     ],
     
-		"requires": "|Furnace Key| OR |Rocket Launcher - Single Use|"
+		"requires": "|Furnace Key| OR |Rocket Launcher - Single Use| OR ({YamlEnabled(Expert_Logic)} AND |Incendiary Grenade|)"
   },
   {
     
@@ -633,7 +633,7 @@
       "level_completion"
     ],
     
-		"requires": "|Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND |@heavyweapon:1|"
+		"requires": "|Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND (|@heavyweapon:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -1047,7 +1047,7 @@
       "boss_kill"
     ],
     
-		"requires": "|Furnace Key| OR |Rocket Launcher - Single Use|"
+		"requires": "|Furnace Key| OR |Rocket Launcher - Single Use| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
   },
   {
     
@@ -1155,7 +1155,7 @@
       "boss_kill"
     ],
     
-		"requires": "|@lightweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@heavyweapon:1|)"
   },
   {
     
@@ -1191,7 +1191,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -1239,7 +1239,7 @@
       "treasure"
     ],
     
-		"requires": "|@heavyweapon:1| AND |Guard's Key|"
+		"requires": "|Guard's Key|"
   },
   {
     
@@ -1311,7 +1311,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1|"
+		"requires": "|@lightweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -1323,7 +1323,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1|"
+		"requires": "|@lightweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -1647,7 +1647,7 @@
       "treasure"
     ],
     
-		"requires": "|@heavyweapon:1|"
+		"requires": "|@heavyweapon:1| OR ({YamlEnabled(Expert_Logic)} AND |@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|)"
   },
   {
     
@@ -1707,7 +1707,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -1719,7 +1719,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -1743,7 +1743,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -1767,7 +1767,7 @@
       "treasure"
     ],
     
-		"requires": []
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -1803,7 +1803,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -1815,7 +1815,7 @@
       "treasure"
     ],
     
-		"requires": []
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -2007,7 +2007,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR |Rocket Launcher - Single Use|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR |Rocket Launcher - Single Use| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
   },
   {
     
@@ -2043,7 +2043,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -2055,7 +2055,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -2067,7 +2067,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -2115,7 +2115,7 @@
       "treasure"
     ],
     
-		"requires": "|@heavyweapon:1|"
+		"requires": "|@heavyweapon:1| OR (|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR |@explosives:1| AND {YamlEnabled(Expert_Logic)})"
   },
   {
     
@@ -2139,7 +2139,7 @@
       "treasure"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR (|@lightweapon:1| OR |@rifle:1| AND {YamlEnabled(Expert_Logic)})"
   },
   {
     
@@ -2151,7 +2151,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)}) AND |@heavyweapon:1|"
   },
   {
     
@@ -2163,7 +2163,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -2223,7 +2223,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -2235,7 +2235,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -2247,7 +2247,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -2283,7 +2283,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR {YamlEnabled(Expert_Logic)}"
   },
   {
     
@@ -2319,7 +2319,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
   },
   {
     
@@ -2331,7 +2331,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
   },
   {
     
@@ -2343,7 +2343,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|) OR ({YamlEnabled(Expert_Logic)} AND |@rifle:1|)"
   },
   {
     
@@ -2355,7 +2355,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
   },
   {
     
@@ -2367,7 +2367,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -2379,7 +2379,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
   },
   {
     
@@ -2391,7 +2391,7 @@
       "treasure"
     ],
     
-		"requires": "|@rifle:1|"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |Rocket Launcher - Single Use|)"
   },
   {
     
@@ -2427,7 +2427,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
   },
   {
     
@@ -2439,7 +2439,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
   },
   {
     
@@ -2451,7 +2451,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|@treasure:15|"
+		"requires": "|Beretta M92F| AND |M92F Firepower Upgrades| AND |M92F Reload Speed Upgrades| AND |M92F Capacity Upgrades| AND |M92F Critical Hit Upgrades| OR (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} AND |Beretta M92F| AND |M92F Firepower Upgrades| AND |M92F Reload Speed Upgrades| AND |M92F Capacity Upgrades| AND |M92F Critical Hit Upgrades|}"
   },
   {
     
@@ -2463,7 +2463,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|@treasure:15|"
+		"requires": "|S&W M29| AND |S&W M29 Firepower Upgrades| AND |S&W M29 Reload Speed Upgrades| AND |S&W M29 Capacity Upgrades| AND |S&W M29 Piercing Upgrades| OR (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} AND |S&W M29| AND |S&W M29 Firepower Upgrades| AND |S&W M29 Reload Speed Upgrades| AND |S&W M29 Capacity Upgrades| AND |S&W M29 Piercing Upgrades|)"
   },
   {
     
@@ -2475,7 +2475,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|@treasure:15|"
+		"requires": "|Ithaca 37| AND |Ithaca 37 Firepower Upgrades| AND |Ithaca 37 Reload Speed Upgrades| AND |Ithaca 37 Capacity Upgrades| AND |Ithaca 37 Critical Hit Upgrades| OR (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} AND |Ithaca 37| AND |Ithaca 37 Firepower Upgrades| AND |Ithaca 37 Reload Speed Upgrades| AND |Ithaca 37 Capacity Upgrades| AND |Ithaca 37 Critical Hit Upgrades|)"
   },
   {
     
@@ -2490,7 +2490,7 @@
       "boss_kill"
     ],
     
-		"requires": "|Hangar Keycard A| AND |Hangar Keycard B| AND |Chapter 6-3| AND (|@lightweapon:1| OR |@heavyweapon:1|)"
+		"requires": "|Hangar Keycard A| AND |Hangar Keycard B| AND |Chapter 6-3| AND (|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1|)"
   },
   {
     
@@ -2506,5 +2506,29 @@
     ],
     
 		"requires": "(|Furnace Key| OR |Rocket Launcher - Single Use|) AND |Chapter 1-2| AND |Chapter 2-2| AND |Chapter 2-3| AND |Chapter 3-3| AND |Chapter 4-1| AND |Chapter 5-1| AND |Chapter 5-2| AND |Chapter 5-3| AND |Chapter 6-2| AND |Hangar Keycard A| AND |Hangar Keycard B| AND |Chapter 6-3| AND (|@lightweapon:1| OR |@heavyweapon:1|) AND |Port Key| AND |Guard's Key| AND |Bridge Keycard| AND |Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND |Sky Emblem| AND |Earth Emblem| AND |Sea Emblem| AND |Crane Keycard|"
+  },
+  {
+    
+		"name": "Purchase Longbow",
+    
+		"region": "Shop",
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
+		"requires": "{YamlEnabled(Infinite_Ammo_Unlocks_Enabled)} AND {YamlEnabled(Shopsanity_Enabled)} AND |S75| AND |S75 Firepower Upgrades| AND |S75 Reload Speed Upgrades| AND |S75 Capacity Upgrades| OR (|@treasure:20| AND {YamlEnabled(Treasuresanity_Enabled)} AND {YamlEnabled(Infinite_Ammo_Unlocks_Enabled)} AND {YamlEnabled(Shopsanity_Enabled)} AND |S75| AND |S75 Firepower Upgrades| AND |S75 Reload Speed Upgrades| AND |S75 Capacity Upgrades|)"
+  },
+  {
+    
+		"name": "Purchase Minigun",
+    
+		"region": "Shop",
+    
+		"category": [
+      "shop_purchase"
+    ],
+    
+		"requires": "{YamlEnabled(Infinite_Ammo_Unlocks_Enabled)} AND {YamlEnabled(Shopsanity_Enabled)} AND |VZ61| AND |VZ61 Firepower Upgrades| AND |VZ61 Reload Speed Upgrades| AND |VZ61 Capacity Upgrades| AND |VZ61 Critical Hit Upgrades| OR (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} AND {YamlEnabled(Infinite_Ammo_Unlocks_Enabled)} AND {YamlEnabled(Shopsanity_Enabled)} AND |VZ61| AND |VZ61 Firepower Upgrades| AND |VZ61 Reload Speed Upgrades| AND |VZ61 Capacity Upgrades| AND |VZ61 Critical Hit Upgrades|)"
   }
 ]

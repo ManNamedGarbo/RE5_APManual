@@ -1,7 +1,8 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "residentevil5",
-  "creator": "garbo",
+  "game": "ResidentEvil5",
+  "creator": "Garbo",
   "filler_item_name": "Egg",
-  "starting_items": []
+  "starting_items": [],
+  "death_link": true
 }
