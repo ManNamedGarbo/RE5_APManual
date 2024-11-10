@@ -309,7 +309,7 @@
       "emblem"
     ],
     
-		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@lightweapon:1|) OR {YamlEnabled(Expert_Logic)} AND |Rocket Launcher - Single Use|)"
+		"requires": "|@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@lightweapon:1|) OR ({YamlEnabled(Expert_Logic)} AND |Rocket Launcher - Single Use|)"
   },
   {
     
