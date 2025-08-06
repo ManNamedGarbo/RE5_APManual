@@ -951,7 +951,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Chapter 1-2| AND |Furnace Key| AND (|@treasure:1| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Chapter 1-2| AND |Furnace Key| AND ((|@treasure:1| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -963,7 +963,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Chapter 2-3| AND (|@treasure:1| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Chapter 2-3| AND ((|@treasure:1| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -975,7 +975,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Chapter 3-1| AND |Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND (|@treasure:5| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Chapter 3-1| AND |Beast Slate| AND |Shaman Slate| AND |Raptor Slate| AND |Warrior Slate| AND ((|@treasure:5| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -987,7 +987,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Chapter 5-1| AND (|@treasure:5| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Chapter 5-1| AND ((|@treasure:5| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -999,7 +999,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Chapter 2-2| AND (|@treasure:1| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Chapter 2-2| AND ((|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -1011,7 +1011,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Chapter 1-2| AND (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Chapter 1-2| AND ((|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -1023,7 +1023,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Chapter 4-2| AND (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Chapter 4-2| AND ((|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -2451,7 +2451,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Beretta M92F| AND |M92F Firepower Upgrades| AND |M92F Reload Speed Upgrades| AND |M92F Capacity Upgrades| AND |M92F Critical Hit Upgrades| AND (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Beretta M92F| AND |M92F Firepower Upgrades| AND |M92F Reload Speed Upgrades| AND |M92F Capacity Upgrades| AND |M92F Critical Hit Upgrades| AND ((|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -2463,7 +2463,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|S&W M29| AND |S&W M29 Firepower Upgrades| AND |S&W M29 Reload Speed Upgrades| AND |S&W M29 Capacity Upgrades| AND |S&W M29 Piercing Upgrades| AND (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|S&W M29| AND |S&W M29 Firepower Upgrades| AND |S&W M29 Reload Speed Upgrades| AND |S&W M29 Capacity Upgrades| AND |S&W M29 Piercing Upgrades| AND ((|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -2475,7 +2475,7 @@
       "shop_purchase"
     ],
     
-		"requires": "|Ithaca 37| AND |Ithaca 37 Firepower Upgrades| AND |Ithaca 37 Reload Speed Upgrades| AND |Ithaca 37 Capacity Upgrades| AND |Ithaca 37 Critical Hit Upgrades| AND (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "|Ithaca 37| AND |Ithaca 37 Firepower Upgrades| AND |Ithaca 37 Reload Speed Upgrades| AND |Ithaca 37 Capacity Upgrades| AND |Ithaca 37 Critical Hit Upgrades| AND ((|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -2517,7 +2517,7 @@
       "shop_purchase"
     ],
     
-		"requires": "{YamlEnabled(Infinite_Ammo_Unlocks_Enabled)} AND {YamlEnabled(Shopsanity_Enabled)} AND |S75| AND |S75 Firepower Upgrades| AND |S75 Reload Speed Upgrades| AND |S75 Capacity Upgrades| AND (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "{YamlEnabled(Infinite_Ammo_Unlocks_Enabled)} AND {YamlEnabled(Shopsanity_Enabled)} AND |S75| AND |S75 Firepower Upgrades| AND |S75 Reload Speed Upgrades| AND |S75 Capacity Upgrades| AND ((|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   },
   {
     
@@ -2529,6 +2529,6 @@
       "shop_purchase"
     ],
     
-		"requires": "{YamlEnabled(Infinite_Ammo_Unlocks_Enabled)} AND {YamlEnabled(Shopsanity_Enabled)} AND |VZ61| AND |VZ61 Firepower Upgrades| AND |VZ61 Reload Speed Upgrades| AND |VZ61 Capacity Upgrades| AND |VZ61 Critical Hit Upgrades| AND (|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)} OR {YamlDisabled(Treasuresanity_Enabled))"
+		"requires": "{YamlEnabled(Infinite_Ammo_Unlocks_Enabled)} AND {YamlEnabled(Shopsanity_Enabled)} AND |VZ61| AND |VZ61 Firepower Upgrades| AND |VZ61 Reload Speed Upgrades| AND |VZ61 Capacity Upgrades| AND |VZ61 Critical Hit Upgrades| AND ((|@treasure:10| AND {YamlEnabled(Treasuresanity_Enabled)}) OR {YamlDisabled(Treasuresanity_Enabled)})"
   }
 ]
