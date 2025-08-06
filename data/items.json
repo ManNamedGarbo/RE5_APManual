@@ -1911,5 +1911,17 @@
     ],
     
 		"useful": true
+  },
+  {
+    
+		"count":  30,
+    
+		"name": "Progressive Treasure",
+    
+		"category": [
+      "treasure"
+    ],
+    
+		"progression_skip_balancing": true
   }
 ]
