@@ -1047,7 +1047,7 @@
       "boss_kill"
     ],
     
-		"requires": "|Furnace Key| OR |Rocket Launcher - Single Use| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
+		"requires": "|Furnace Key| OR |Rocket Launcher - Single Use| OR ({YamlEnabled(Expert_Logic)} AND |@explosive:1|)"
   },
   {
     
@@ -2007,7 +2007,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR |Rocket Launcher - Single Use| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR |Rocket Launcher - Single Use| OR ({YamlEnabled(Expert_Logic)} AND |@explosive:1|)"
   },
   {
     
@@ -2115,7 +2115,7 @@
       "treasure"
     ],
     
-		"requires": "|@heavyweapon:1| OR (|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR |@explosives:1| AND {YamlEnabled(Expert_Logic)})"
+		"requires": "|@heavyweapon:1| OR (|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR |@explosive:1| AND {YamlEnabled(Expert_Logic)})"
   },
   {
     
@@ -2319,7 +2319,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosive:1|)"
   },
   {
     
@@ -2331,7 +2331,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosive:1|)"
   },
   {
     
@@ -2343,7 +2343,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|) OR ({YamlEnabled(Expert_Logic)} AND |@rifle:1|)"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosive:1|) OR ({YamlEnabled(Expert_Logic)} AND |@rifle:1|)"
   },
   {
     
@@ -2355,7 +2355,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosive:1|)"
   },
   {
     
@@ -2379,7 +2379,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosive:1|)"
   },
   {
     
@@ -2439,7 +2439,7 @@
       "treasure"
     ],
     
-		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosives:1|)"
+		"requires": "|@lightweapon:1| OR |@heavyweapon:1| OR |@rifle:1| OR ({YamlEnabled(Expert_Logic)} AND |@explosive:1|)"
   },
   {
     
